@@ -1,0 +1,1 @@
+[23] J.H.Lee, C.P.Burger. Finite element modeling of laser-generated Lamb waves[J].Computers & Structures, 1995, 54(3): 499-511.
