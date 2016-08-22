@@ -1,1 +1,8 @@
-[23] J.H.Lee, C.P.Burger. Finite element modeling of laser-generated Lamb waves[J].Computers & Structures, 1995, 54(3): 499-511.
+[72] J.H.Lee, C.P.Burger. Finite element modeling of laser-generated Lamb waves[J].Computers & Structures, 1995, 54(3): 499-511.
+[73] Masahiko Hirao, Hidekazu Fukuoka. Scattering of Rayleigh surface waves by edge cracks: Numerical simulation and experiment[J]. J.Acoust.Soc.Am., 1982, 72(2):
+602-606.
+[74] J.R.Bernstein, J.B.Spicer. Hybrid laser/broadband EMAT ultrasonic system for characterizing cracks in metals[J]. J.Acoust.Soc.Am., 2002, 111(4): 1685-1691.
+[75] Steve Vandenplas. Surface waves Investigation for ultrasonic materials characterization：theory and experimental verification. Ultrasonics. 2004(40)： 73-76
+[76] 关建飞,沈中华,许伯强等.激光激发声表面波在缺陷板材中散射过程的有限元分析[J].光子学报,2005,34(8):1128-1132.
+[77] 尹向宝.激光超声无损检测技术对岩体物性测试的研究[D].大连理工大学,2008.
+[78] 袁玲,任旭东,严刚等.激光冲击硬化层中激光声表面波的实验研究[J].中国激光,2008,35(1):120-124.
